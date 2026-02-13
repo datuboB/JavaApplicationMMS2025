@@ -1,0 +1,61 @@
+                         
+                          57 JAVA KEYWORDS
+
+
+        1.      Byte - stores small integer values.
+        2.      char - this stores a single character.
+	3.	System – System is used to access system resources.
+	4.	out – out is used to print output.
+	5.	println – println prints text and moves to a new line.
+	6.	print – print displays text without a new line.
+	7.	Scanner – Scanner reads user input.
+	8.	nextInt – nextInt reads an integer from input.
+	9.	nextLine – nextLine reads a full line of text.
+	10.	ArrayList – ArrayList stores dynamic lists of items.
+	11.	LinkedList – LinkedList stores elements in linked form.
+	12.	HashMap – HashMap stores key-value pairs.
+	13.	HashSet – HashSet stores unique elements.
+	14.	Math – Math provides mathematical functions.
+	15.	random – random generates random numbers.
+	16.	parseInt – parseInt converts a String to an int.
+	17.	length – length gives the size of an array.
+	18.	equals – equals compares objects.
+	19.	compareTo – compareTo compares two values.
+	20.	toString – toString converts an object to text.
+	21.	substring – substring extracts part of a string.
+	22.	charAt – charAt gets a character from a string.
+	23.	indexOf – indexOf finds a character’s position.
+	24.	replace – replace changes characters in a string.
+	25.	trim – trim removes extra spaces.
+	26.	split – split divides a string into parts.
+	27.	Integer – Integer is a wrapper class for int.
+	28.	Double – Double is a wrapper class for double.
+	29.	Boolean – Boolean is a wrapper class for boolean.
+	30.	Object – Object is the parent of all classes.
+	31.	Thread – Thread allows multitasking.
+	32.	Runnable – Runnable is used to create threads.
+	33.	Exception – Exception handles runtime errors.
+	34.	RuntimeException – RuntimeException occurs during execution.
+	35.	IOException – IOException handles input/output errors.
+	36.	File – File represents file paths.
+	37.	FileReader – FileReader reads files.
+	38.	FileWriter – FileWriter writes to files.
+	39.	BufferedReader – BufferedReader reads text efficiently.
+	40.	BufferedWriter – BufferedWriter writes text efficiently.
+	41.	Collections – Collections provides utility methods for collections.
+	42.	Comparator – Comparator compares objects.
+	43.	Comparable – Comparable defines natural ordering.
+	44.	Optional – Optional handles possible null values.
+	45.	Stream – Stream processes data sequences.
+	46.	lambda – A lambda expression simplifies code.
+	47.	record – A record is a special class for data storage.
+	48.	var – var lets Java infer variable type.
+	49.	yield – yield returns a value in a switch expression.
+	50.	sealed – A sealed class restricts inheritance.
+	51.	permits – permits defines allowed subclasses.
+	52.	non-sealed – non-sealed allows further inheritance.
+	53.	instance – An instance is an object of a class.
+	54.	constructor – A constructor initializes objects.
+	55.	method – A method defines behavior.
+	56.	variable – A variable stores data.
+	57.	array – An array stores multiple values.
