@@ -1,0 +1,48 @@
+chapter 1
+exercises 1.1
+a) programs
+b) input unit,output unit, memory unit, arithmetic and logic unit (ALU), central processing unit (CPU), and secondary storage unit
+c) machine language, assembly language,high language
+d compilers
+e) andriod
+F) release
+g) accelerometer
+
+
+exercise 1.2
+a) java
+b) java
+C) java
+d) class
+e) bytecodes
+
+
+exerrcise 1.3
+a) information hiding
+b) classes
+c) object oriented analysis and design(OOAD)
+d) inhertance
+e) UML (unified modeling language)
+f) attributes
+
+exercise 1.4
+a) input unit
+b)programming
+c) assembly language
+d) output unit
+e) primary memory(RAM) and secondary memory(hard disk/storage)
+f) arithmetic logic unit (ALU)
+g) control unit(CU)
+h) high level languages
+i) macchine language
+j) contrrol unit(CU)
+
+
+exercise 1.5
+a) java
+b) c
+c) tramission control protocol (TCP)
+d) c++
+
+
+exercise 1.6
