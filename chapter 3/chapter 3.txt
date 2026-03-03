@@ -1,0 +1,25 @@
+   Assignment Chapter3
+
+
+  ANSWERS
+
+3.10 the both of them are control statements and they use a conditions in parentences.then the difference is that if single selection statements executes once only 
+if the condition is true and the while is a repetition statement that loops as long the condition remains true
+
+3.11 it discards the fractional part of the result and takes the whole number.to avoid it use a floating point literal instead of an integer.example 7.0/2 = 3.1
+
+3.12 there are two ways in combining the control statements 
+a) nexting : one control statement inside another
+b) sequencing:placing control statement one after another
+
+3.13 the for loop will be used since the number is fixed.the while lop will be approprate for calculating the sum of an abitrary number of positive inetegers.   
+
+
+3.14 preincrementing it will increment first then uses the new value  while postincrement uses the current value first then it increment
+
+3.15        
+
+
+
+
+
